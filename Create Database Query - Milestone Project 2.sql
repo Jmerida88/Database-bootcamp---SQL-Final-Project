@@ -1,1 +1,1 @@
-create database milestone_project2
+create database band_db
